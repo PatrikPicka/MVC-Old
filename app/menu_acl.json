@@ -1,0 +1,14 @@
+{
+	"Home" : "home",
+	"Dropdown" : {
+		"Dropdown" : "dropdown",
+		"Dropdown 1" : "dropdown/first",
+		"Dropdown 2" : "dropdown/second",
+		"separator" : "",
+		"Dropdown 3" : "dropdown/third"
+	},
+	"Google": "https://www.google.com",
+	"Login" : "register/login",
+	"Logout": "register/logout"
+
+}
